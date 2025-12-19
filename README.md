@@ -1,14 +1,13 @@
-### 👋 Hi there! I'm [Reza]
+### Hi there! I'm [Reza]
 
-Saya antusias mempelajari teknologi terbaru dan gemar mengembangkan solusi kreatif melalui pemrograman. Saat ini saya sedang mencari **kesempatan magang** di bidang IT untuk mengasah keterampilan dan memberikan kontribusi nyata di industri.
+Saya antusias mempelajari teknologi terbaru dan gemar mengembangkan solusi kreatif melalui pemrograman. Saat ini saya sedang mencari pengalaman di bidang IT untuk mengasah keterampilan dan memberikan kontribusi nyata di industri.
 
 ---
 
 ###  Tentang Saya
 
-- 🔭 Sedang menempuh studi S1 Teknik Informatika di Universitas Dian Nuswantoro
-- 💻 Relevant skills: **Web Development**, **Web Scraping**, **BOT Automation Tools**
-- 🤝 Terbuka untuk kolaborasi, belajar tim, dan pengembangan proyek nyata
+- Sedang menempuh studi S1 Teknik Informatika di Universitas Dian Nuswantoro
+- Relevant skills: **Web Development**, **Web Scraping**, **BOT Automation Tools**
 
 ---
 
