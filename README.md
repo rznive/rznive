@@ -1,8 +1,15 @@
-### Hi there! I'm [Reza]
+### Hi there! I'm Reza / RZNIVE.
 ---
 
-###  Teknologi & Tools
+### Focus Area
+- BOT Automation / Scrapping
+- Mobile App API Interception & Reverse Engineering
+- Web Application Development
+- Cloud Infrastructure & CI/CD
 
+---
+
+### Technologi & Tools
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -12,9 +19,8 @@
 
 ---
 
-###  GitHub Stats
-
+### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rznive&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rznive&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=rznive&show_icons=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=rznive&theme=radical" />
 </p>
