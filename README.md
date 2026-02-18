@@ -3,7 +3,7 @@
 
 ### Focus Area
 - BOT Automation / Scrapping
-- Mobile App API Interception & Reverse Engineering
+- Mobile App API Interception
 - Web Application Development
 - Cloud Infrastructure & CI/CD
 
